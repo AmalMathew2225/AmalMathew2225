@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Amal 👋
 
-<!--
-**AmalMathew2225/AmalMathew2225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student from Kerala  
+🚀 Building AI tools, web apps, and developer utilities  
 
-Here are some ideas to get you started:
+## Projects
+- 🔍 Crime Database Management System
+- 🤖 IdeaMiner – AI tool for discovering product ideas
+- 🧠 Domain Adaptive BERT experiments
+- 🧩 Absurd Autocorrect Chrome Extension
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Use
+- JavaScript / TypeScript
+- Python
+- Next.js
+- Prisma
+- Kotlin
+
+## Currently Learning
+- Machine Learning
+- System Design
+- Backend Engineering
