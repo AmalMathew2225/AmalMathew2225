@@ -20,3 +20,5 @@
 - Machine Learning
 - System Design
 - Backend Engineering
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmalMathew2225)
