@@ -27,14 +27,6 @@ Always eager to learn new technologies and improve my skills! 🚀
 
 ---
 
-## 💻 My Programming Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalMathew2225&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 📬 Let's Connect!
 
 <p align="center">
